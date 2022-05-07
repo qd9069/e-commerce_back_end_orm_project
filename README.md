@@ -3,7 +3,7 @@
 ![badge of MIT license](https://img.shields.io/badge/license-MIT-9cf)
 
 ## Link
-Please click [here]() to find the walkthrough video that demonstrates the functionality of the E-Commerce Back End application
+Please click [here](https://watch.screencastify.com/v/TYZuKCjnm7X3lbCrqGXN) to find the walkthrough video that demonstrates the functionality of the E-Commerce Back End application
 
 ## Description
 
